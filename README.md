@@ -1,4 +1,4 @@
 # graphology
 jQuery graph and chart making library
 
-This project is still undercontstruction
+This project is still under contstruction
