@@ -1,0 +1,13 @@
+text {
+  fill: #fff;
+  font-family: 'Ubuntu'; }
+
+g {
+  position: relative;
+  display: inline-block;
+  text-align: right; }
+
+.pieChart svg {
+  background: #ddd; }
+
+/*# sourceMappingURL=graphs.css.map */

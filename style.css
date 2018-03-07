@@ -1,0 +1,35 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+@import "https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Ubuntu:300,400,500,700";
+@import url(graphs.css);
+h1 {
+  color: #299afd;
+  -ms-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  font: 700 50px/60px "Roboto Slab", serif; }
+  h1:hover {
+    color: blue; }
+  h1:after {
+    font-family: 'FontAwesome';
+    font-size: 25px;
+    content: '\f01a'; }
+
+h2 {
+  color: red;
+  -ms-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  font: 300 18px/24px "Ubuntu", sans-serif; }
+  h2:hover {
+    color: green; }
+
+h3 {
+  color: violet;
+  -ms-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  font: 300 18px/24px "Ubuntu", sans-serif; }
+  h3:hover {
+    color: lightblue; }
+
+/*# sourceMappingURL=style.css.map */
